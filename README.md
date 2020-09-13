@@ -1,2 +1,2 @@
-# ProLab2-Project-3
+# ProLab2-Project3
 "Desktop Netflix Application" project
